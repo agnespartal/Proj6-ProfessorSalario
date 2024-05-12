@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Proj6-ProfessorSalario</string>
+    <string name="professorHorista">Professor Horista</string>
+    <string name="professorTitular">Professor Titular</string>
+    <string name="calcular">Calcular</string>
+    <string name="horas">Horas</string>
+    <string name="anos">Anos</string>
+    <string name="salario">R$ </string>
+
+</resources>
